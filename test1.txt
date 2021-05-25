@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B670-D75C
+
+ Directory of C:\Users\swetass\Desktop\MyProject
+
+25-05-2021  19:12    <DIR>          .
+25-05-2021  19:12    <DIR>          ..
+25-05-2021  19:12                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  12,739,133,440 bytes free
